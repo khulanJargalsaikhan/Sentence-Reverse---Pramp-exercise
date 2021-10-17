@@ -9,6 +9,7 @@
 
 	Explain your solution and analyze its time and space complexities.
 	
+	example:
 	new char[] {'p', 'e', 'r', 'f', 'e', 'c', 't', ' ', 
 		'm', 'a', 'k', 'e', 's', ' ',
 		'p', 'r', 'a', 'c', 't', 'i', 'c', 'e' }
